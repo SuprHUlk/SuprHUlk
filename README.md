@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SuprHUlk/SuprHUlk/main/Pixel%20hacker.gif" alt="WHOLESOME CODING GIF" style="width: 100%;" />
+<img src="https://raw.githubusercontent.com/SuprHUlk/SuprHUlk/main/Pixel%20hacker.gif" alt="WHOLESOME CODING GIF" style="width: 100vw;" />
 # 💫 About Me:
 🔭 I’m currently working on PROJECT-LIVE<br>👯 I’m looking to collaborate on FULL-STACK WEB DEV PROJECTS<br>🤝 I’m looking for help with GRADIENT-OS<br>🌱 I’m currently learning DOCKER<br>💬 Ask me about ANYTHING<br>⚡ Fun fact YOUR MAMA GEY 
 
