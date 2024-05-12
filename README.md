@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/SuprHUlk/SuprHUlk/main/Pixel%20hacker.gif" alt="WHOLESOME CODING GIF" style="width: 100vw;" />
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi There 👋, I'm Ayush</h1>
+<h3 align="center">A Full Stack Web Developer</h3>
 <br>
 
 # 💫 About Me:
