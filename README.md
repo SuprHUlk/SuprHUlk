@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/SuprHUlk/project-live">PROJECT-LIVE</a> <br>👯 I’m looking to collaborate on FULL STACK WEB DEV PROJECTS<br>🤝 I’m looking for help with <a href="https://github.com/SuprHUlk/project-os">GRADIENT-OS</a><br>🌱 I’m currently learning DOCKER<br>💬 Ask me about ANYTHING<br>⚡ Fun fact YOUR MAMA GEY 
+🔭 I’m currently working on <a href="https://github.com/SuprHUlk/project-live">PROJECT-LIVE</a> <br>👯 I’m looking to collaborate on FULL STACK WEB DEV PROJECTS<br>🤝 I’m looking for help with <a href="https://github.com/SuprHUlk/project-os">GRADIENT-OS</a><br>🌱 I’m currently learning DOCKER<br>💬 Ask me about ANYTHING<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
